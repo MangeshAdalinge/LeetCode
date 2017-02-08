@@ -1,0 +1,3 @@
+C:\MangeshProject\JeetCodeConsoleDemo\JeetCodeConsoleDemo\bin\Debug\JeetCodeConsoleDemo.exe.config
+C:\MangeshProject\JeetCodeConsoleDemo\JeetCodeConsoleDemo\obj\Debug\JeetCodeConsoleDemo.exe
+C:\MangeshProject\JeetCodeConsoleDemo\JeetCodeConsoleDemo\obj\Debug\JeetCodeConsoleDemo.pdb
